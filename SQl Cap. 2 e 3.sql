@@ -1,4 +1,5 @@
---Capitulo 2
+--CAPITULO 2
+
 SELECT COD_ALUNO, NOME, CIDADE --Seleciona estes registros na tabela taluno
 FROM TALUNO;
 
